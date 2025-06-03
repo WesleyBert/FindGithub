@@ -9,4 +9,4 @@ const ItemList = ({ title, description }) => {
         </div>
     );
 }
-export default ItemList;
+export  {ItemList};
